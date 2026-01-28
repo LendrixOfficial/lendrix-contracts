@@ -1,0 +1,10 @@
+{
+  "network": "BSC",
+  "contracts": [
+    {
+      "name": "LendrixStakeRegistryV2",
+      "address": "0x71c3120ae81554bC6eD2843fd7cedBEeA8D3AF51",
+      "explorer": "https://bscscan.com/address/0x71c3120ae81554bC6eD2843fd7cedBEeA8D3AF51"
+    }
+  ]
+}
